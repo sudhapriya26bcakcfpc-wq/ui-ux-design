@@ -23,7 +23,7 @@ This project was created as a UI/UX design practice to improve skills in mobile 
 ## 📱 Screens Included
 
 1. Home Screen
-  <img width="440" height="956" alt="first page" src="https://github.com/user-attachments/assets/74274f71-cccd-4b5a-8b51-937266abeac1" />
+  <img width="300" height="300" alt="first page" src="https://github.com/user-attachments/assets/74274f71-cccd-4b5a-8b51-937266abeac1" />
 
 3. Choose Destination
 4. Must Visit Places
