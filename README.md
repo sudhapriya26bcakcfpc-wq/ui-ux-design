@@ -23,12 +23,14 @@ This project was created as a UI/UX design practice to improve skills in mobile 
 ## 📱 Screens Included
 
 1. Home Screen
-2. Choose Destination
-3. Must Visit Places
-4. Booking & Payment Details
-5. Payment Summary
-6. Booking Successful
-7. Thank You Screen
+  <img width="440" height="956" alt="first page" src="https://github.com/user-attachments/assets/74274f71-cccd-4b5a-8b51-937266abeac1" />
+
+3. Choose Destination
+4. Must Visit Places
+5. Booking & Payment Details
+6. Payment Summary
+7. Booking Successful
+8. Thank You Screen
 
 ---
 
