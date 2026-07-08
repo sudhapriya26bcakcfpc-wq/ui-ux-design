@@ -66,18 +66,6 @@ The goal of this project is to design a travel booking application that provides
 
 ---
 
-## 📂 Project Structure
-
-```
-Travel-App/
-│
-├── Figma Design File
-├── Screenshots
-└── README.md
-```
-
----
-
 ## 📸 Preview
 
 The application includes the following workflow:
