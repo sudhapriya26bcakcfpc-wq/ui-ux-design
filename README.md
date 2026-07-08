@@ -31,15 +31,15 @@ This project was created as a UI/UX design practice to improve skills in mobile 
 4.Must visit Places
 <img width="300" height="300" alt="north" src="https://github.com/user-attachments/assets/875c9f87-1684-439f-97cb-04fc502c6834" />
 5. Booking & Payment Details
-6. <img width="300" height="300" alt="registration" src="https://github.com/user-attachments/assets/fcfd0fd9-dffb-47fe-9c0c-29e234a9e848" />
+ <img width="300" height="300" alt="registration" src="https://github.com/user-attachments/assets/fcfd0fd9-dffb-47fe-9c0c-29e234a9e848" />
 
-7. Payment Summary
-8. <img width="300" height="300" alt="payment" src="https://github.com/user-attachments/assets/8dc75746-6a57-43d0-a90f-3e350bbaa869" />
+6. Payment Summary
+ <img width="300" height="300" alt="payment" src="https://github.com/user-attachments/assets/8dc75746-6a57-43d0-a90f-3e350bbaa869" />
 
-9. Booking Successful
-10. <img width="300" height="300" alt="payment sucessful" src="https://github.com/user-attachments/assets/b94e0bc8-0335-4f0a-a6bb-19c33e456264" />
+7. Booking Successful
+ <img width="300" height="300" alt="payment sucessful" src="https://github.com/user-attachments/assets/b94e0bc8-0335-4f0a-a6bb-19c33e456264" />
 
-11. Thank You Screen
+8. Thank You Screen
 <img width="300" height="300" alt="welcome back" src="https://github.com/user-attachments/assets/0065cc15-f510-45bb-9a10-89d79e466096" />
 
 ---
